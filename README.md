@@ -26,6 +26,7 @@ I'm a Data Scientist and an advanced Biology & Biotechnology student from Mar de
 
 - **LinkedIn:** [Your LinkedIn Profile URL](www.linkedin.com/in/juliana-fernandez-06398721a)
 
+---
 
 ### ¡Hola! Soy Juliana 👋
 

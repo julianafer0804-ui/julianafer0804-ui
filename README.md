@@ -24,7 +24,7 @@ I'm a Data Scientist and an advanced Biology & Biotechnology student from Mar de
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [Your LinkedIn Profile URL](www.linkedin.com/in/juliana-fernandez-06398721a)
+- **LinkedIn:** [www.linkedin.com/in/juliana-fernandez-06398721a]
 
 ---
 
@@ -54,4 +54,4 @@ Soy una Data Scientist y estudiante avanzada de Biología y Biotecnología de Ma
 
 ### 📫 Cómo contactarme
 
-- **LinkedIn:** [Tu Perfil de LinkedIn](www.linkedin.com/in/juliana-fernandez-06398721a)
+- **LinkedIn:** [www.linkedin.com/in/juliana-fernandez-06398721a]

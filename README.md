@@ -17,7 +17,7 @@ I'm a Data Scientist and an advanced Biology & Biotechnology student from Mar de
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[VAERS Predictive Analysis](https://github.com/julianafer0804-ui/Analis-Predictivo-VAERS)** | A Machine Learning model to predict hospitalizations based on vaccine adverse event reports (VAERS dataset). | Scikit-learn, Pandas, Matplotlib |
+| **[VAERS Predictive Analysis](https://github.com/julianafer0804-ui/Analisis-Predictivo-VAERS)** | A Machine Learning model to predict hospitalizations based on vaccine adverse event reports (VAERS dataset). | Scikit-learn, Pandas, Matplotlib |
 | **[Cellular S/V Visualizer](https://github.com/julianafer0804-ui/relacion-sv-celulas)** | An interactive Streamlit app that visualizes the surface-to-volume ratio, a key concept in biology. | Streamlit, Plotly, NumPy |
 
 ---
@@ -47,7 +47,7 @@ Soy una Data Scientist y estudiante avanzada de Biología y Biotecnología de Ma
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Análisis Predictivo de VAERS](https://github.com/julianafer0804-ui/Análisis-Predictivo-VAERS)** | Modelo de Machine Learning para predecir hospitalizaciones a partir de reportes de eventos adversos a vacunas. | Scikit-learn, Pandas, Matplotlib |
+| **[Análisis Predictivo de VAERS](https://github.com/julianafer0804-ui/Analisis-Predictivo-VAERS)** | Modelo de Machine Learning para predecir hospitalizaciones a partir de reportes de eventos adversos a vacunas. | Scikit-learn, Pandas, Matplotlib |
 | **[Visualizador S/V Celular](https://github.com/julianafer0804-ui/relacion-sv-celulas)** | App interactiva en Streamlit que visualiza la relación superficie-volumen, un concepto clave en biología. | Streamlit, Plotly, NumPy |
 
 ---
